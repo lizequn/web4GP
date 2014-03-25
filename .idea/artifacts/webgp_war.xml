@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="webgp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="webgp-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="webgp:war exploded" />
+    </root>
+  </artifact>
+</component>
