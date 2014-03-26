@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="973e3021-a91d-4b6f-b95e-4fb3eea28a87" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/UploadServlet.java" afterPath="$PROJECT_DIR$/src/main/java/UploadServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/uploadfile.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/uploadfile.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webgp.iml" afterPath="$PROJECT_DIR$/webgp.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/webgp_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/webgp_war_exploded.xml" />
+    <list default="true" id="973e3021-a91d-4b6f-b95e-4fb3eea28a87" name="Default" comment="a">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/RegisterServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/error.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/getreceipt.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/register.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="webgp.iws" />
@@ -22,9 +19,95 @@
     <file path="/error.jsp" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395769590154" ignored="false" />
     <file path="/web.xml" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395770927927" ignored="false" />
     <file path="/getreceipt.jsp" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395772377485" ignored="false" />
-    <file path="/Dummy.txt" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395772726229" ignored="false" />
-    <file path="D:/javaProject2/privategroup/.idea/workspace.xml" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395772726229" ignored="false" />
-    <file path="D:/javaProject2/Client4GP1/.idea/workspace.xml" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395772726229" ignored="false" />
+    <file path="/Dummy.txt" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839874735" ignored="false" />
+    <file path="D:/javaProject2/privategroup/.idea/workspace.xml" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839874126" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/.idea/workspace.xml" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839874126" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/test/ReceiverTest.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="/ReceiverTest.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395838516574" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/test/SenderTest.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="/SenderTest.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395838529942" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/test/AbortAndResolveTest.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="/AbortAndResolveTest.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395838611337" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/TTPURL.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/core/DocSenderImpl.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839070429" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/pom.xml" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/test/ReceiverTest.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/test/SenderTest.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/core/RegisterImpl.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/Resource.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/core/DocSenderImpl.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839479624" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/Register.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/TTPURL.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/core/KeyPairStore.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/DocSender.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/clientserver/MyRequestHeader.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/CommandTransfer.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/test/Test.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/clientserver/MyRestTemplate.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/entity/PublicKeyEntity.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/entity/AbortEntity.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/test/AbortAndResolveTest.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/callback/ReceiptCallBack.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/clientserver/CustomerErrorHandler.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/callback/defaultimpl/SessionStoreCallBackImpl.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/util/Base64Coder.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/DocReceive.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/util/HashUtil.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/callback/CheckCallBack.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/util/FlieUtil.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/callback/defaultimpl/DefaultCheckCallBack.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/util/KeyGenerator.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/callback/defaultimpl/DefaultFileStore.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/util/SignUtil.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/callback/defaultimpl/DefaultReceiptCallBack.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/core/DocReceiveImpl.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/entity/RegisterResponseEntity.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/entity/GetMyExchangeResponseEntity.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/callback/FileStore.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/clientserver/GsonHelper.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/entity/Phase3RequestEntity.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/entity/Phase1RequestEntity.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/callback/SessionStoreCallBack.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi1/entity/Phase1ResponseEntity.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839114340" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/core/RegisterImpl.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/Resource.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/Register.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/core/KeyPairStore.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/DocSender.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/clientserver/MyRequestHeader.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/CommandTransfer.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/test/Test.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/clientserver/MyRestTemplate.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/entity/PublicKeyEntity.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/entity/AbortEntity.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/callback/ReceiptCallBack.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/clientserver/CustomerErrorHandler.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/callback/defaultimpl/SessionStoreCallBackImpl.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/util/Base64Coder.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/DocReceive.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/util/HashUtil.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/callback/CheckCallBack.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/util/FlieUtil.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/callback/defaultimpl/DefaultCheckCallBack.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/util/KeyGenerator.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/callback/defaultimpl/DefaultFileStore.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/util/SignUtil.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/callback/defaultimpl/DefaultReceiptCallBack.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/core/DocReceiveImpl.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/entity/RegisterResponseEntity.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/entity/GetMyExchangeResponseEntity.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/clientserver/GsonHelper.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/entity/Phase3RequestEntity.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/callback/FileStore.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/entity/Phase1RequestEntity.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/entity/Phase1ResponseEntity.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="D:/javaProject2/Client4GP1/src/main/java/uk/ac/ncl/cs/group1/clientapi/callback/SessionStoreCallBack.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839047868" ignored="false" />
+    <file path="/DocSenderImpl.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839191549" ignored="false" />
+    <file path="D:/javaProject2/privategroup/src/main/java/uk/ac/ncl/cs/groupproject/contoller/AbortController.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839256739" ignored="false" />
+    <file path="D:/javaProject2/privategroup/src/main/java/uk/ac/ncl/cs/groupproject/services/impl/AbortServiceImpl.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839664456" ignored="false" />
+    <file path="/AbortServiceImpl.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839663961" ignored="false" />
+    <file path="D:/javaProject2/privategroup/src/main/java/uk/ac/ncl/cs/groupproject/dao/impl/LogDaoImpl.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839763940" ignored="false" />
+    <file path="/LogDaoImpl.java" changelist="973e3021-a91d-4b6f-b95e-4fb3eea28a87" time="1395839762370" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +227,7 @@
       <file leaf-file-name="register.jsp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/register.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="41" selection-start="512" selection-end="512" vertical-scroll-proportion="0.47765008">
+            <state line="23" column="34" selection-start="520" selection-end="520" vertical-scroll-proportion="0.49936143">
               <folding />
             </state>
           </provider>
@@ -361,6 +444,32 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="META-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webgp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webgp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -525,6 +634,17 @@
       <patterns />
       <method />
     </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
     <list size="0" />
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -556,6 +676,11 @@
       <created>1395766801045</created>
       <updated>1395766801045</updated>
     </task>
+    <task id="LOCAL-00001" summary="a">
+      <created>1395772737945</created>
+      <updated>1395772737945</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -569,10 +694,11 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298639" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298639" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33066455" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -580,13 +706,12 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32961783" sideWeight="0.6701361" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6701361" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298639" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6701361" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298639" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33066455" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -632,7 +757,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -646,6 +771,7 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="a" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -784,7 +910,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/register.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="41" selection-start="512" selection-end="512" vertical-scroll-proportion="0.47765008">
+        <state line="23" column="34" selection-start="520" selection-end="520" vertical-scroll-proportion="0.49936143">
           <folding />
         </state>
       </provider>
